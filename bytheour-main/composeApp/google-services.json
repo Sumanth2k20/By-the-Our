@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "project_number": "495785135648",
+    "project_id": "macro-landing-315521",
+    "storage_bucket": "macro-landing-315521.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495785135648:android:4d5dad4b9db2cefd37f645",
+        "android_client_info": {
+          "package_name": "com.bythehour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495785135648-1ffpq6gt5r9rmfirq9ipjrg2isuc4hjt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bythehour",
+            "certificate_hash": "dca0f1df79031276fb5e7d925b6bac9daff03903"
+          }
+        },
+        {
+          "client_id": "495785135648-1v3t8dc6og1uboo5eudv78fjq9j0tqer.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bythehour",
+            "certificate_hash": "c9a234b8188d440c9e7f6ac90350c147094622c0"
+          }
+        },
+        {
+          "client_id": "495785135648-42segstnuo0pjnndrvfvmj88rgsd4q38.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bythehour",
+            "certificate_hash": "bcdd485db3003f3ec10a0302355e8f8e9e0e69ad"
+          }
+        },
+        {
+          "client_id": "495785135648-agkbsh5bcvjkvbeuaa0cvgao530i4ep8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bythehour",
+            "certificate_hash": "a26e93db85ae997a6de77c6b1ff28cf4bb42e2b3"
+          }
+        },
+        {
+          "client_id": "495785135648-hgnbp8g6bnng1jo9juckt1po3d2d2ihm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bythehour",
+            "certificate_hash": "4cf07fbb0b9bba366f6b4f6f0985a6b7c586bee2"
+          }
+        },
+        {
+          "client_id": "495785135648-l71590tq2shep24s9skc7tfeeuo3v34f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bythehour",
+            "certificate_hash": "d564f6cc89bf55e6d793b7635b8f5a4861bcb301"
+          }
+        },
+        {
+          "client_id": "495785135648-mmmfa00l5iffq1j6sepffp5kogef4rsk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bythehour",
+            "certificate_hash": "0b765c889e2b190953c5ca888e4b7836a5a6775b"
+          }
+        },
+        {
+          "client_id": "495785135648-oc5731dm3sagffo2bh4m1i0qeqpa9r8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bythehour",
+            "certificate_hash": "7a4f2518a021990298cfb9a5eb056e36c496e222"
+          }
+        },
+        {
+          "client_id": "495785135648-r93l699bcnf0e6bdb3e11a79f0003ooc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bythehour",
+            "certificate_hash": "87611a5a3986bf8f956c42cad11efbfaf14a3aeb"
+          }
+        },
+        {
+          "client_id": "495785135648-rp8ha9ct8b9t8mqtc8sj1puuemk9dv85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bythehour",
+            "certificate_hash": "c1e23358039fa8afa8b941a6800ccb3c68baddaa"
+          }
+        },
+        {
+          "client_id": "495785135648-tuuj57odn93ucv2dad5mcfmgf4g5du5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bythehour",
+            "certificate_hash": "8736bf0ed2dcbbfc7fbb1cd86e4a6b5f14d1a590"
+          }
+        },
+        {
+          "client_id": "495785135648-loe9p1495o25lol4u3753r7lfuj5vb87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz2rBfVsFoshnKwb0ZP4VOZOaKS5QZPzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495785135648-loe9p1495o25lol4u3753r7lfuj5vb87.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "495785135648-1m8209ss9k8snfdkk3dd09q2vl78659n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bythehour.app",
+                "app_store_id": "962194608"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495785135648:android:772f1d680066c45d37f645",
+        "android_client_info": {
+          "package_name": "com.bytheour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495785135648-loe9p1495o25lol4u3753r7lfuj5vb87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz2rBfVsFoshnKwb0ZP4VOZOaKS5QZPzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495785135648-loe9p1495o25lol4u3753r7lfuj5vb87.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "495785135648-1m8209ss9k8snfdkk3dd09q2vl78659n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bythehour.app",
+                "app_store_id": "962194608"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
