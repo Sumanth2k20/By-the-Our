@@ -11,7 +11,7 @@ object JTURLS {
 
     private const val PROD_URL = "https://bytheour.com/api/"
     private const val DEV_URL ="http://3.13.228.170/api/"
-    private const val BASEURL = PROD_URL
+    private const val BASEURL = DEV_URL
 
 
     const val BASE_IMAGE_URL = "https://stagingbythehour.s3.us-east-2.amazonaws.com/"
